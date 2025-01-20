@@ -2,7 +2,7 @@
     "name": "tg-frame-php/tg-frame-php",
     "description": "my frame work php",
     "type": "library",
-   "license": "MIT",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "TgFramePhp\\TgFramePhp\\": "src/"
@@ -18,12 +18,13 @@
         "irazasyed/telegram-bot-sdk": "^3.14",
         "vlucas/phpdotenv": "^5.6"
     },
-"maintainers": [
-    {
-        "name": "Ajmal Alkhaledi",
-        "email": "ajmalalkhaledi@gmail.com",
-        "homepage": "https://github.com/AjmalAlkhaledi",
-        "role": "lead"
-    }
-]
+    "maintainers": [
+        {
+            "name": "Ajmal Alkhaledi",
+            "email": "ajmalalkhaledi@gmail.com",
+            "homepage": "https://github.com/AjmalAlkhaledi",
+            "role": "lead",
+            "avatar": "https://avatars.githubusercontent.com/u/114437356?v=4"
+        }
+    ]
 }
