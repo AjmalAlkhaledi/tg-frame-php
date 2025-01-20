@@ -1,0 +1,21 @@
+{
+    "name": "tg-frame-php/tg-frame-php",
+    "description": "my frame work php",
+    "type": "composer-plugin", 
+   "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "TgFramePhp\\TgFramePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ajmal Alkhaledi",
+            "email": "ajmalalkhaledi@gmail.com"
+        }
+    ],
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^3.14",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
