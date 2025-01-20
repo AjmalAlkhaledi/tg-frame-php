@@ -17,5 +17,13 @@
     "require": {
         "irazasyed/telegram-bot-sdk": "^3.14",
         "vlucas/phpdotenv": "^5.6"
+    },
+"maintainers": [
+    {
+        "name": "Ajmal Alkhaledi",
+        "email": "ajmalalkhaledi@gmail.com",
+        "homepage": "https://github.com/AjmalAlkhaledi",
+        "role": "lead"
     }
+]
 }
