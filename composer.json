@@ -1,7 +1,7 @@
 {
     "name": "tg-frame-php/tg-frame-php",
     "description": "my frame work php",
-    "type": "composer-plugin", 
+    "type": "library",
    "license": "MIT",
     "autoload": {
         "psr-4": {
