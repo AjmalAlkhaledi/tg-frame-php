@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'tg-frame-php/tg-frame-php',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'b827d3099f12ba244e27f171115fd5df2cdf5fc3',
         'type' => 'composer-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -332,9 +332,9 @@
             ),
         ),
         'tg-frame-php/tg-frame-php' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b827d3099f12ba244e27f171115fd5df2cdf5fc3',
             'type' => 'composer-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
